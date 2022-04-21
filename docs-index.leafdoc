@@ -5,7 +5,7 @@ This file just defines the order of the classes in the docs.
 
 @class Map
 
-@class Marker
+
 @class DivOverlay
 @class Popup
 @class Tooltip
@@ -14,7 +14,6 @@ This file just defines the order of the classes in the docs.
 @class TileLayer.WMS
 @class ImageOverlay
 @class VideoOverlay
-@class SVGOverlay
 
 @class Path
 @class Polyline
@@ -28,10 +27,7 @@ This file just defines the order of the classes in the docs.
 @class LayerGroup
 @class FeatureGroup
 @class GeoJSON
-@class GridLayer
 
-@class LatLng
-@class LatLngBounds
 @class Point
 @class Bounds
 @class Icon
